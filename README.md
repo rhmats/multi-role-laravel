@@ -65,6 +65,9 @@ This project uses the following technologies :
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or create an issue if you find a bug or have a feature request.
 
+## License
+This project is open-source and available under the MIT License.
+
 ## 📞 Contact
 If you have any questions, feel free to reach out via https://www.linkedin.com/in/rahmat-syafriyani/ or rahmatsyafriyani809@gmail.com
 Let's Connect!

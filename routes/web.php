@@ -24,5 +24,5 @@ Route::middleware(['auth', 'UserMiddleware'])->group(function () {
 });
 
 Route::middleware(['auth', 'AdminMiddleware'])->group(function () {
-    Route::get('/cadmin/dashboard', [AdminController::class, 'index'])->name('admin.dashboard');
+    Route::get('admin/dashboard', [AdminController::class, 'index'])->name('admin.dashboard');
 });
